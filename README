@@ -1,0 +1,7 @@
+Instruction for running the game:
+
+Run the game.py in terminal using command [python ./game.py]
+If you want to specify width, height and color, run the option [--width n] [--height n] [--color n]
+where n is the number you want, eg. python ./game.py --width 12 --height 10 --color 8
+
+WARNING: Do not try to run optional command using ipython, since ipython does not work with argparser well
